@@ -13,4 +13,4 @@ This is a sinple search bar that finds files in your project folder. When clicki
 3. GO TO - Windows -> SearchBar. or Press Alt+Shift+F.
    
 ## Screenshot
-![alt text](Images/SearchBar)
+![alt text](Images/SearchBar.gif)
